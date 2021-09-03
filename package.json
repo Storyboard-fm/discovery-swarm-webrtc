@@ -42,7 +42,7 @@
     "debug": "^4.1.1",
     "end-of-stream": "^1.4.4",
     "minimist": "^1.2.0",
-    "mostly-minimal-spanning-tree": "^1.0.2",
+    "mostly-minimal-spanning-tree": "github:storyboard-fm/mostly-minimal-spanning-tree",
     "nanocustomassert": "^1.0.0",
     "nanoerror": "^1.1.0",
     "pump": "^3.0.0",
