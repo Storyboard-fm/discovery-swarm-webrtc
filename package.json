@@ -22,7 +22,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/geut/discovery-swarm-webrtc.git"
+    "url": "git+https://github.com/storyboard-fm/discovery-swarm-webrtc.git"
   },
   "keywords": [
     "swarm",
@@ -35,9 +35,9 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/geut/discovery-swarm-webrtc/issues"
+    "url": "https://github.com/storyboard-fm/discovery-swarm-webrtc/issues"
   },
-  "homepage": "https://github.com/geut/discovery-swarm-webrtc#readme",
+  "homepage": "https://github.com/storyboard-fm/discovery-swarm-webrtc#readme",
   "dependencies": {
     "debug": "^4.1.1",
     "end-of-stream": "^1.4.4",
